@@ -1,0 +1,31 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-size: 2.1em;
+    color: white;
+}
+
+h1{
+    font-size: 2.8em;
+    color: rgb(197 176 59);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    height: 50px;
+    width: 180px;
+    color: #00672e;
+    background-color: rgb(197 176 59);
+    font-weight: bolder;
+    font-size: 25px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.people{
+    margin-top: 40px;
+}
